@@ -4,9 +4,9 @@ var topGround
 var balloon, balloonImg
 
 function preload(){
-bgImg = loadImage("assets/bg.png")
+bgImg = loadImage("bg.png")
 
-balloonImg = loadAnimation("assets/balloon1.png","assets/balloon2.png","assets/balloon3.png")
+balloonImg = loadAnimation("balloon1.png","balloon2.png","balloon3.png")
 }
 
 function setup(){
